@@ -1,0 +1,13 @@
+Quantas partidas terminam por timeout (1000 rodadas): 84;
+Quantos turnos (rodadas), em média, demora uma partida: 317.43;
+Qual a porcentagem de vitórias por comportamento dos jogadores: 
+
+      ImpulsivePlayer: 25.93%
+      
+      DemandingPlayer: 30.56%
+      
+      CautiousPlayer: 23.61%
+      
+      RandomPlayer: 19.91%
+      
+Qual o comportamento mais vence: DemandingPlayer;
